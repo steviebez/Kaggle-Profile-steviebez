@@ -1,0 +1,26 @@
+# City Visualization Project - Python Dependencies
+# Install with: pip install -r requirements.txt
+# Or with conda: conda install --file requirements.txt
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning (Optional)
+scikit-learn>=1.3.0
+
+# JSON handling (usually built-in, but just in case)
+# No need to specify - comes with Python
+
+# Development Tools (Optional)
+ipython>=8.12.0
+jupyter>=1.0.0
+
+# Code Quality (Optional)
+# black>=23.0.0
+# flake8>=6.0.0
+# pylint>=2.17.0
